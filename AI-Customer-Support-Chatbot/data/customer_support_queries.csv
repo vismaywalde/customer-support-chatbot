@@ -1,0 +1,7 @@
+query,intent
+I want to return my order,refund
+Where is my package?,order_status
+My order arrived damaged,complaint
+Can I cancel my subscription?,refund
+My product is defective,complaint
+How long does shipping take?,order_status
